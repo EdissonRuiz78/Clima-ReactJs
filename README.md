@@ -8,5 +8,5 @@ Aplicacioón web en React Js consulta de Clima por medio de API curso Udemy por 
 
 # Antes de iniciar
 -  npm install
-- npm star
+-  npm start
 
